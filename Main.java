@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CarProgram {
+public class Main {
         public static void main(String[] args) {
                 try (Scanner myCar = new Scanner(System.in)) {
                         System.out.println("Inserisci il brand automobilistico:");
